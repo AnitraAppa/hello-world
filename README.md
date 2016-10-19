@@ -1,3 +1,2 @@
 # hello-world
-My first GitHub repository
-UX writer for the U.S. Digital Service
+I joined the Digital Service on October 17. I am a UX writer a.k.a. content strategist.
